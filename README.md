@@ -1,6 +1,6 @@
-
-
 Some useful scripts
+===================================  
+
 FILE:  radom_ip.py
        Randomly generate public network IP
 Useage:
